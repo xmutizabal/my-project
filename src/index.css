@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.nav li.active {
+  background-color: gray-800
+}
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
